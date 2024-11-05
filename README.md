@@ -1,6 +1,6 @@
 # Untitled
 
-https://observablehq.com/@challenge-project-data-visualization-gu/most-relevant-author@232
+https://observablehq.com/@challenge-project-data-visualization-gu/most-relevant-author@239
 
 View this notebook in your browser by running a web server in this folder. For
 example:
@@ -14,7 +14,7 @@ import this module directly into your application. To npm install:
 
 ~~~sh
 npm install @observablehq/runtime@5
-npm install https://api.observablehq.com/d/aac10ba4d6681928@232.tgz?v=3
+npm install https://api.observablehq.com/d/aac10ba4d6681928@239.tgz?v=3
 ~~~
 
 Then, import your notebook and the runtime as:
