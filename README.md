@@ -1,6 +1,6 @@
 # D3-Data-Visualization Relevant-Author
 
-https://observablehq.com/@challenge-project-data-visualization-gu/most-relevant-author@274
+https://observablehq.com/@challenge-project-data-visualization-gu/most-relevant-author
 
 View this notebook in your browser by running a web server in this folder. For
 example:
