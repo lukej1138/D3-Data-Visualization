@@ -1,0 +1,14 @@
+{
+  "name": "@challenge-project-data-visualization-gu/most-relevant-author",
+  "main": "aac10ba4d6681928@274.js",
+  "version": "274.0.0",
+  "homepage": "https://observablehq.com/@challenge-project-data-visualization-gu/most-relevant-author",
+  "author": {
+    "name": "Challenge Project - Data Visualization Guerra",
+    "url": "https://observablehq.com/@challenge-project-data-visualization-gu"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
